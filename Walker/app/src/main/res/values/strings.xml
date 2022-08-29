@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Walker</string>
+    <string name="button_vibrate" translatable="false">Vibrar</string>
+    <string name="button_go_podometer" translatable="false">Start podometer</string>
+    <string name="tv_stepsTaken" />
+
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="button_go_calendar">calendar</string>
+
+</resources>
